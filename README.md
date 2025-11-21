@@ -12,10 +12,12 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/PoroGramr/LeetCodeLog/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/PoroGramr/LeetCodeLog/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PoroGramr/LeetCodeLog/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/PoroGramr/LeetCodeLog/tree/master/0371-sum-of-two-integers) |
 ## Memoization
 |  |
 | ------- |
