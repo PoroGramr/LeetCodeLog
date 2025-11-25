@@ -14,7 +14,7 @@ class Solution:
         
         old_to_new = {}
 
-        def dfs(cur:'Node') -> 'Node':
+        def dfs(cur):
             if cur in old_to_new:
                 return old_to_new[cur]
             
